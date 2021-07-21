@@ -1,5 +1,6 @@
 # Python-SQLite Translation Database
-https://github.com/ebrandle/conlang-translation-db/
+Creator: E. Brandle
+Link to original code: https://github.com/ebrandle/conlang-translation-db/
 
 ## Description
 This is a simple python/sqlite interactive database designed to help authors, worldbuilders, and conlangers keep track of the words in their created language.
