@@ -6,9 +6,9 @@ This is a simple python/sqlite interactive database designed to help authors, wo
 
 As of 2021/07/20, this program only supports single-word translation. Multi-word/phrase translation can be done in a roundabout way by entering the phrase as a new "word"\*, but sentence translation must be completed by the user since conlang grammar often diverges from English grammar.
 
-\* If you take this path, adding a category called "phrases" is recommended.
-
 Note: While not at all required, I would love to be told if anyone uses my code. I love helping people and it's nice to know when my work pays off.
+
+\**If you take this path, adding a category called "phrases" is recommended.
 
 ## Commands
 - 0/Q: Exit program
