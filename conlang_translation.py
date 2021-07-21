@@ -269,6 +269,8 @@ while True:
         list_words()
     elif selection == 'lc':
         list_cat()
+    elif selection == 'll':
+        list_link()
     elif selection == 'lbc':
         list_by_cat()
 
