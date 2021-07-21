@@ -1,5 +1,6 @@
 # Python-SQLite Translation Database
 Creator: E. Brandle
+
 Link to original code: https://github.com/ebrandle/conlang-translation-db/
 
 ## Description
