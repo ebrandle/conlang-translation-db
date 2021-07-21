@@ -8,7 +8,7 @@ As of 2021/07/20, this program only supports single-word translation. Multi-word
 
 Note: While not at all required, I would love to be told if anyone uses my code. I love helping people and it's nice to know when my work pays off.
 
-\**If you take this path, adding a category called "phrases" is recommended.
+\*If you take this path, adding a category called "phrases" is recommended.
 
 ## Commands
 - 0/Q: Exit program
