@@ -1,8 +1,33 @@
 # Python-SQLite Translation Database
 https://github.com/ebrandle/conlang-translation-db/
 
-## Purpose/Usage
-<update later>
+## Commands
+- 0/Q: Exit program
+- A: Add word or category
+- - AW: Shortcut to add_word()
+- - AC: Shortcut to add_cat()
+- C: Categorize word
+- L: List words or available categories
+- - LW: Shortcut to list_words()
+- - LC: Shortcut to list_cat()
+- - LL: Unlisted path to list_link() (troubleshooting aid function)
+- LBC: List words by selected category
+- S: Search for word translation
+- D: Delete word or category
+- - DW: Shortcut to delete_word()
+- - DC: Shortcut to delete_cat()
+- X: Export dictionary to conlang_dictionary.csv/.txt
+- - XC: Shortcut to export_csv()
+- - XD/XT: Shortcut to export_dict() (.txt)
+
+## Abbreviations
+- cat: category
+- con: conlang
+- conlang: constructed language
+- eng: English
+- ls: list
+- lst: list
+- tmp: temporary
 
 ## Legal
 ### The Unlicense
