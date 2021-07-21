@@ -1,5 +1,6 @@
 # Python-SQLite Translation Database
 https://github.com/ebrandle/conlang-translation-db/
+
 Note: While not at all required, I would love to be told if anyone uses my code. I love helping people and it's nice to know when my work pays off.
 
 ## Commands
