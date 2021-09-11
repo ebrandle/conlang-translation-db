@@ -1,12 +1,13 @@
 # Python-SQLite Translation Database
 Creator: E. Brandle
+Last update: 2021/07/20
 
 Link to original code: https://github.com/ebrandle/conlang-translation-db/
 
 ## Description
 This is a simple python/sqlite interactive database designed to help authors, worldbuilders, and conlangers keep track of the words in their created language.
 
-As of 2021/07/20, this program only supports single-word translation. Multi-word/phrase translation can be done in a roundabout way by entering the phrase as a new "word"\*, but sentence translation must be completed by the user since conlang grammar often diverges from English grammar.
+As of last update, this program only supports single-word translation. Multi-word/phrase translation can be done in a roundabout way by entering the phrase as a new "word"\*, but sentence translation must be completed by the user since conlang grammar often diverges from English grammar.
 
 Note: While not at all required, I would love to be told if anyone uses my code. I love helping people and it's nice to know when my work pays off.
 
@@ -28,17 +29,19 @@ Note: While not at all required, I would love to be told if anyone uses my code.
 - - DW: Shortcut to delete_word()
 - - DC: Shortcut to delete_cat()
 - X: Export dictionary to conlang_dictionary.csv/.txt
-- - XC: Shortcut to export_csv()
+- - XC: Shortcut to export_csv() (.csv)
 - - XD/XT: Shortcut to export_dict() (.txt)
 
 ## Abbreviations
 - cat: category
+- csv: comma separated values
 - con: conlang
 - conlang: constructed language
 - eng: English
 - ls: list
 - lst: list
 - tmp: temporary
+- .txt: plain text file
 
 ## Legal
 ### The Unlicense
